@@ -1,0 +1,21 @@
+P {
+	TEXT-INDENT: 1em
+}
+P.first {
+	TEXT-INDENT: 0em
+}
+HR {
+	COLOR: black
+}
+.halfspace {
+	LINE-HEIGHT: 1.2em
+}
+.greyback {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; WIDTH: 66%; PADDING-TOP: 5px; BACKGROUND-COLOR: #cccccc
+}
+.blackback {
+	PADDING-RIGHT: 0.2em; PADDING-LEFT: 0.2em; FONT-WEIGHT: bolder; PADDING-BOTTOM: 0.2em; COLOR: white; PADDING-TOP: 0.2em; BACKGROUND-COLOR: #000000
+}
+.classic {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; FONT-WEIGHT: bolder; PADDING-BOTTOM: 0.1em; COLOR: yellow; PADDING-TOP: 0.1em; BACKGROUND-COLOR: red; FONT-VARIANT: small-caps
+}
